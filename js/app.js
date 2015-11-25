@@ -19,8 +19,8 @@ var allFeeds = [
         url: 'http://feeds.feedburner.com/html5rocks'
     }, {
         name: 'Linear Digressions',
-        url: 'http://feeds.feedburner.com/udacity-linear-digressions'
-    }
+        url:'http://feeds.feedburner.com/udacity-linear-digressions'
+    },
 ];
 
 /* This function starts up our application. The Google Feed
