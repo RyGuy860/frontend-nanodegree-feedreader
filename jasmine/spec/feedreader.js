@@ -114,14 +114,14 @@ $(function() {
 
         beforeEach(function(done) {
             loadFeed(0, function() {
-                oldFeedTitle = ($('.header-title').html()); //first feed title
+                newFeedTitle = ($('.header-title').html()); //first feed title
                 done();
                 console.log(oldFeedTitle); //om
 
             });
         });
         loadFeed(1, function() {
-            newFeedTitle = ($('.header-title').html());
+            oldFeedTitle = ($('.header-title').html());
             console.log(newFeedTitle);
         });
 
