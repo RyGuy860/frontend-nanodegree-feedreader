@@ -42,8 +42,8 @@ I learned how to use Jasmine to write a number of tests against a pre-existing a
 
 #Resources
 
-1. www.Stackoverflow.com
+1. http://Stackoverflow.com
 2. http://jasmine.github.io/2.0/introduction.html
 3. Udacity Discussion forum
 4. http://bittersweetryan.github.io/jasmine-presentation/
-5. jquery.com
+5. http://jquery.com
