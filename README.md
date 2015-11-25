@@ -40,7 +40,7 @@ I learned how to use Jasmine to write a number of tests against a pre-existing a
 13. Write a test that ensures when a new feed is loaded by the loadFeed function that the content actually changes. Remember, loadFeed() is asynchronous.
 14. When complete - all of your tests should pass.
 
-#Resourses
+#Resources
 
 1. www.Stackoverflow.com
 2. http://jasmine.github.io/2.0/introduction.html
